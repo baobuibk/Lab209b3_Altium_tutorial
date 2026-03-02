@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AUSB.PrjPcb]
+   Generated File[AUSB_PCB.TXT]
+   Generated File[AUSB_PCB.LDP]
+   Generated File[AUSB_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:58:21 AM On 3/2/2026
